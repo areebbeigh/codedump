@@ -1,6 +1,7 @@
 # codedump
 An unorganized reference dump for me.
 
+- [How To Serve Django Applications with uWSGI and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04#install-and-configure-virtualenv-and-virtualenvwrapper)
 - Testing SMTP servers with `swaks` example
   ```
   swaks --to areebbeigh@gmail.com \
