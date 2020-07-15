@@ -16,6 +16,7 @@ An unorganized reference dump for me.
     --auth-user <user> \
     -tls
   ```
+- [MySQL Cheatsheet](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
 - [Understand Group by in Django with SQL](https://hakibenita.com/django-group-by-sql#how-to-group-by)
 - Discourse SSO
   - [Official SSO guide](https://meta.discourse.org/t/official-single-sign-on-for-discourse-sso/13045)
