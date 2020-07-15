@@ -1,6 +1,8 @@
 # codedump
 An unorganized reference dump for me.
 
+- [Things every developer absolutely, positively needs to know about database indexing - Kai Sassnowski
+](https://youtu.be/HubezKbFL7E)
 - [Build a real-time gaming leaderboard with Amazon ElastiCache for Redis](https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/)
 - [AWS: How to Mount S3 Bucket Using IAM Role on EC2 Linux instance](https://medium.com/tensult/aws-how-to-mount-s3-bucket-using-iam-role-on-ec2-linux-instance-ad2afd4513ef)
 - [How To Serve Django Applications with uWSGI and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04#install-and-configure-virtualenv-and-virtualenvwrapper)
