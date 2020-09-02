@@ -16,6 +16,10 @@ An unorganized reference dump for me.
     --auth-user <user> \
     -tls
   ```
+- Rabbit MQ quick start
+    ```
+    docker run -p 15672:15672 -p 5672:5672 -d --hostname my-rabbit rabbitmq:3-management
+    ```
 - [MySQL Cheatsheet](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
 - [Understand Group by in Django with SQL](https://hakibenita.com/django-group-by-sql#how-to-group-by)
 - Discourse SSO
