@@ -1,6 +1,7 @@
 # codedump
 An unorganized reference dump for me.
 
+- [Erle Robotics: Python Networking Programming](https://erlerobotics.gitbooks.io/erle-robotics-python-gitbook-free/content/)
 - [Things every developer absolutely, positively needs to know about database indexing - Kai Sassnowski
 ](https://youtu.be/HubezKbFL7E)
 - [Build a real-time gaming leaderboard with Amazon ElastiCache for Redis](https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/)
