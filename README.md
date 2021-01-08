@@ -1,6 +1,7 @@
 # codedump
 An unorganized reference dump for me.
 
+- [Profiling React Components (Chrome)](https://calibreapp.com/blog/react-performance-profiling-optimization)
 - [How to Fix Your Git Branches After a Rebase](https://www.viget.com/articles/how-to-fix-your-git-branches-after-a-rebase/)
 - [How does non-blocking IO work under the hood?](https://medium.com/ing-blog/how-does-non-blocking-io-work-under-the-hood-6299d2953c74)
 - [AsyncIO in Python: A complete walkthrough](https://realpython.com/async-io-python/#setting-up-your-environment)
