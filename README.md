@@ -1,6 +1,7 @@
 # codedump
 An unorganized reference dump for me.
 
+- [Devhints Cheatsheets - Bash, MySQL, Go, etc. ](https://devhints.io/)
 - [Profiling React Components (Chrome)](https://calibreapp.com/blog/react-performance-profiling-optimization)
 - [How to Fix Your Git Branches After a Rebase](https://www.viget.com/articles/how-to-fix-your-git-branches-after-a-rebase/)
 - [How does non-blocking IO work under the hood?](https://medium.com/ing-blog/how-does-non-blocking-io-work-under-the-hood-6299d2953c74)
