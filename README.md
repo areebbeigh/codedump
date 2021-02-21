@@ -1,6 +1,7 @@
 # codedump
 An unorganized reference dump for me.
 
+- [Should you be using Web Workers? (hint: probably not)](https://medium.com/@david.gilbertson/should-you-should-be-using-web-workers-hint-probably-not-9b6d26dc8c6a)
 - [Devhints Cheatsheets - Bash, MySQL, Go, etc. ](https://devhints.io/)
 - [Profiling React Components (Chrome)](https://calibreapp.com/blog/react-performance-profiling-optimization)
 - [How to Fix Your Git Branches After a Rebase](https://www.viget.com/articles/how-to-fix-your-git-branches-after-a-rebase/)
