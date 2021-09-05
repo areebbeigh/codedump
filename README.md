@@ -1,5 +1,8 @@
 # codedump
 
+## Blockchain
+- [Merkle Proofs](https://bitcoin.stackexchange.com/questions/69018/merkle-root-and-merkle-proofs)
+
 ## Software Architecture
 - [Source Making](https://sourcemaking.com/)
 - [Refactoring Guru](https://refactoring.guru/)
