@@ -14,6 +14,10 @@
 - [MySQL Cheatsheet](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
 - [Understand Group by in Django with SQL](https://hakibenita.com/django-group-by-sql#how-to-group-by)
 
+## REST
+- [REST: I don't Think it Means What You Think it Does • Stefan Tilkov • GOTO 2014
+](https://www.youtube.com/watch?v=pspy1H6A3FM)
+
 ## Unorganized
 - [Should you be using Web Workers? (hint: probably not)](https://medium.com/@david.gilbertson/should-you-should-be-using-web-workers-hint-probably-not-9b6d26dc8c6a)
 - [Devhints Cheatsheets - Bash, MySQL, Go, etc. ](https://devhints.io/)
