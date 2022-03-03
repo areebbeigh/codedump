@@ -21,6 +21,9 @@
 - [AsyncIO in Python: A complete walkthrough](https://realpython.com/async-io-python/#setting-up-your-environment)
 - [Should you be using Web Workers? (hint: probably not)](https://medium.com/@david.gilbertson/should-you-should-be-using-web-workers-hint-probably-not-9b6d26dc8c6a)
 
+## Networks
+- [Erle Robotics: Python Networking Programming](https://erlerobotics.gitbooks.io/erle-robotics-python-gitbook-free/content/)
+
 ## REST
 - [REST: I don't Think it Means What You Think it Does • Stefan Tilkov • GOTO 2014
 ](https://www.youtube.com/watch?v=pspy1H6A3FM)
@@ -29,8 +32,6 @@
 - [Devhints Cheatsheets - Bash, MySQL, Go, etc. ](https://devhints.io/)
 - [Profiling React Components (Chrome)](https://calibreapp.com/blog/react-performance-profiling-optimization)
 - [How to Fix Your Git Branches After a Rebase](https://www.viget.com/articles/how-to-fix-your-git-branches-after-a-rebase/)
-- [Erle Robotics: Python Networking Programming](https://erlerobotics.gitbooks.io/erle-robotics-python-gitbook-free/content/)
-- [AWS: How to Mount S3 Bucket Using IAM Role on EC2 Linux instance](https://medium.com/tensult/aws-how-to-mount-s3-bucket-using-iam-role-on-ec2-linux-instance-ad2afd4513ef)
 - [How To Serve Django Applications with uWSGI and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04#install-and-configure-virtualenv-and-virtualenvwrapper)
 - Testing SMTP servers with `swaks` example
   ```
