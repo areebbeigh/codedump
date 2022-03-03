@@ -18,13 +18,13 @@
 - [Events vs Threads](https://berb.github.io/diploma-thesis/original/043_threadsevents.html)
 - [How does non-blocking IO work under the hood?](https://medium.com/ing-blog/how-does-non-blocking-io-work-under-the-hood-6299d2953c74)
 - [AsyncIO in Python: A complete walkthrough](https://realpython.com/async-io-python/#setting-up-your-environment)
+- [Should you be using Web Workers? (hint: probably not)](https://medium.com/@david.gilbertson/should-you-should-be-using-web-workers-hint-probably-not-9b6d26dc8c6a)
 
 ## REST
 - [REST: I don't Think it Means What You Think it Does • Stefan Tilkov • GOTO 2014
 ](https://www.youtube.com/watch?v=pspy1H6A3FM)
 
 ## Unorganized
-- [Should you be using Web Workers? (hint: probably not)](https://medium.com/@david.gilbertson/should-you-should-be-using-web-workers-hint-probably-not-9b6d26dc8c6a)
 - [Devhints Cheatsheets - Bash, MySQL, Go, etc. ](https://devhints.io/)
 - [Profiling React Components (Chrome)](https://calibreapp.com/blog/react-performance-profiling-optimization)
 - [How to Fix Your Git Branches After a Rebase](https://www.viget.com/articles/how-to-fix-your-git-branches-after-a-rebase/)
