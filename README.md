@@ -15,7 +15,8 @@
 - [Understand Group by in Django with SQL](https://hakibenita.com/django-group-by-sql#how-to-group-by)
 
 ## Concurrency
-- [Events vs Threads](https://berb.github.io/diploma-thesis/original/043_threadsevents.html)
+- [(Thesis) Events vs Threads](https://berb.github.io/diploma-thesis/original/043_threadsevents.html)
+- [(Thesis) Web Technologies - concurrency, scalability...](https://berb.github.io/diploma-thesis/original/index.html#chapter/5)
 - [How does non-blocking IO work under the hood?](https://medium.com/ing-blog/how-does-non-blocking-io-work-under-the-hood-6299d2953c74)
 - [AsyncIO in Python: A complete walkthrough](https://realpython.com/async-io-python/#setting-up-your-environment)
 - [Should you be using Web Workers? (hint: probably not)](https://medium.com/@david.gilbertson/should-you-should-be-using-web-workers-hint-probably-not-9b6d26dc8c6a)
