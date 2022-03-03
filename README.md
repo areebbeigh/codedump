@@ -16,6 +16,8 @@
 
 ## Concurrency
 - [Events vs Threads](https://berb.github.io/diploma-thesis/original/043_threadsevents.html)
+- [How does non-blocking IO work under the hood?](https://medium.com/ing-blog/how-does-non-blocking-io-work-under-the-hood-6299d2953c74)
+- [AsyncIO in Python: A complete walkthrough](https://realpython.com/async-io-python/#setting-up-your-environment)
 
 ## REST
 - [REST: I don't Think it Means What You Think it Does • Stefan Tilkov • GOTO 2014
@@ -26,8 +28,6 @@
 - [Devhints Cheatsheets - Bash, MySQL, Go, etc. ](https://devhints.io/)
 - [Profiling React Components (Chrome)](https://calibreapp.com/blog/react-performance-profiling-optimization)
 - [How to Fix Your Git Branches After a Rebase](https://www.viget.com/articles/how-to-fix-your-git-branches-after-a-rebase/)
-- [How does non-blocking IO work under the hood?](https://medium.com/ing-blog/how-does-non-blocking-io-work-under-the-hood-6299d2953c74)
-- [AsyncIO in Python: A complete walkthrough](https://realpython.com/async-io-python/#setting-up-your-environment)
 - [Erle Robotics: Python Networking Programming](https://erlerobotics.gitbooks.io/erle-robotics-python-gitbook-free/content/)
 - [AWS: How to Mount S3 Bucket Using IAM Role on EC2 Linux instance](https://medium.com/tensult/aws-how-to-mount-s3-bucket-using-iam-role-on-ec2-linux-instance-ad2afd4513ef)
 - [How To Serve Django Applications with uWSGI and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04#install-and-configure-virtualenv-and-virtualenvwrapper)
