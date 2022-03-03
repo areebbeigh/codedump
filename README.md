@@ -14,6 +14,9 @@
 - [MySQL Cheatsheet](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
 - [Understand Group by in Django with SQL](https://hakibenita.com/django-group-by-sql#how-to-group-by)
 
+## Concurrency
+- [Events vs Threads](https://berb.github.io/diploma-thesis/original/043_threadsevents.html)
+
 ## REST
 - [REST: I don't Think it Means What You Think it Does • Stefan Tilkov • GOTO 2014
 ](https://www.youtube.com/watch?v=pspy1H6A3FM)
