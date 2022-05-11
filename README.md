@@ -3,6 +3,8 @@
 ## Distributed Systems
 
 - [Raft vs MongoDB Consensus](https://medium.com/geekculture/raft-consensus-algorithm-and-leader-election-in-mongodb-vs-coachroachdb-19b767c87f95)
+- [Please stop calling databases CP or AP
+](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 
 ## Blockchain
 - [Merkle Proofs](https://bitcoin.stackexchange.com/questions/69018/merkle-root-and-merkle-proofs)
