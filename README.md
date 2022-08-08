@@ -1,5 +1,10 @@
 # codedump
 
+## Java
+
+- [Tuning the Size of Your Thread Pool
+](https://www.infoq.com/articles/Java-Thread-Pool-Performance-Tuning/)
+
 ## Distributed Systems
 
 - [Raft vs MongoDB Consensus](https://medium.com/geekculture/raft-consensus-algorithm-and-leader-election-in-mongodb-vs-coachroachdb-19b767c87f95)
