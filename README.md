@@ -4,6 +4,7 @@
 
 - [Tuning the Size of Your Thread Pool
 ](https://www.infoq.com/articles/Java-Thread-Pool-Performance-Tuning/)
+- [Spring Transactional Guide](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
 
 ## Distributed Systems
 
