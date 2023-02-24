@@ -25,6 +25,7 @@
 ](https://youtu.be/HubezKbFL7E)
 - [MySQL Cheatsheet](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
 - [Understand Group by in Django with SQL](https://hakibenita.com/django-group-by-sql#how-to-group-by)
+- [Cardinality, range queries and indexing](https://stackoverflow.com/questions/50239658/higher-cardinality-column-first-in-an-index-when-involving-a-range)
 
 ## Concurrency
 - [(Thesis) Events vs Threads](https://berb.github.io/diploma-thesis/original/043_threadsevents.html)
