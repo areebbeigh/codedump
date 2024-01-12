@@ -4,10 +4,10 @@
 
 - [Tuning the Size of Your Thread Pool
 ](https://www.infoq.com/articles/Java-Thread-Pool-Performance-Tuning/)
-- [Spring Transactional Guide](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
 
 ## Spring Microservices
 
+- [Spring Transactional Guide](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
 - [A Use Case for Transactions: Outbox Pattern Strategies in Spring Cloud Stream Kafka Binder
 ](https://spring.io/blog/2023/10/24/a-use-case-for-transactions-adapting-to-transactional-outbox-pattern/) - 6 Articles
 
