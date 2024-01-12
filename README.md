@@ -6,6 +6,12 @@
 ](https://www.infoq.com/articles/Java-Thread-Pool-Performance-Tuning/)
 - [Spring Transactional Guide](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
 
+## Spring Microservices
+
+- [A Use Case for Transactions: Outbox Pattern Strategies in Spring Cloud Stream Kafka Binder
+](https://spring.io/blog/2023/10/24/a-use-case-for-transactions-adapting-to-transactional-outbox-pattern/) - 6 Articles
+
+
 ## Distributed Systems
 
 - [Raft vs MongoDB Consensus](https://medium.com/geekculture/raft-consensus-algorithm-and-leader-election-in-mongodb-vs-coachroachdb-19b767c87f95)
