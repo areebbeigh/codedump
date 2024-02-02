@@ -10,6 +10,10 @@
 - [Spring Transactional Guide](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
 - [A Use Case for Transactions: Outbox Pattern Strategies in Spring Cloud Stream Kafka Binder
 ](https://spring.io/blog/2023/10/24/a-use-case-for-transactions-adapting-to-transactional-outbox-pattern/) - 6 Articles
+- Get all attached entities
+  ```java
+  BeanUtil.getBean( EntityManagerContainer.class ).entityManager.unwrap( SessionImplementor.class ).getPersistenceContext().reentrantSafeEntityEntries()
+  ```
 
 
 ## Distributed Systems
