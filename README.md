@@ -40,6 +40,8 @@
 - [Understand Group by in Django with SQL](https://hakibenita.com/django-group-by-sql#how-to-group-by)
 - [Cardinality, range queries and indexing](https://stackoverflow.com/questions/50239658/higher-cardinality-column-first-in-an-index-when-involving-a-range)
 - [greatest-n-per-group queries](https://stackoverflow.com/a/7745635/4591121)
+- [SQL Recursive Query](https://vladmihalcea.com/sql-recursive-with-cte/)
+- [Window Functions - PARTITION BY](https://vladmihalcea.com/why-you-should-definitely-learn-sql-window-functions/)
 
 ## Concurrency
 - [(Thesis) Events vs Threads](https://berb.github.io/diploma-thesis/original/043_threadsevents.html)
