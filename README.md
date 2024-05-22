@@ -1,5 +1,8 @@
 # codedump
 
+## Low Level Stuff
+- [AWS Lambda Internals - QCon](https://www.youtube.com/watch?v=AECR8WMHjv0&ab_channel=InfoQ)
+
 ## AI
 - [What is ChatGPT and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
