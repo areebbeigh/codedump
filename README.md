@@ -94,5 +94,4 @@
   find "$Dir1/" "$Dir2/" -printf '%P\n' | sort | uniq -d
   find "$Dir1/" "$Dir2/" "$Dir2/" -printf '%P\n' | sort | uniq -u
   find "$Dir1/" "$Dir1/" "$Dir2/" -printf '%P\n' | sort | uniq -u
-  find "$Dir1/" "$Dir2/" "$Dir2/" -printf '%P\n' | sort | uniq -u
   ```
