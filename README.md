@@ -95,3 +95,15 @@
   find "$Dir1/" "$Dir2/" "$Dir2/" -printf '%P\n' | sort | uniq -u
   find "$Dir1/" "$Dir1/" "$Dir2/" -printf '%P\n' | sort | uniq -u
   ```
+- Print stack frames python
+  ```python3
+    if isinstance(exc_info, BaseException):
+      exc_info = (type(exc_info), exc_info, exc_info.__traceback__)
+    elif not isinstance(exc_info, tuple):
+        exc_info = sys.exc_info()
+    try:
+        print(*traceback.format_stack(exc_info[1].__traceback__.tb_frame))
+    except Exception:
+        print("Could not print exception stack frames.", exc_info[1])
+    traceback.print_exception(*exc_info)
+  ```
